@@ -1,5 +1,4 @@
 # PlannerScape-Backend
 
-
-https://user-images.githubusercontent.com/69720999/226807934-4f424308-8774-4186-8e8a-c82d5ae79302.mp4
+![giphy (2)](https://user-images.githubusercontent.com/69720999/226808146-fec42396-08d7-4c91-8b9f-19cbdc889027.gif)
 
